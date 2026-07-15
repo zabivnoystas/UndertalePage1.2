@@ -415,6 +415,7 @@ ul {
     margin-top: 50px;
     flex-direction: column;
     gap: 30px;
+    color: white;
 }
 
 .your-rate {
