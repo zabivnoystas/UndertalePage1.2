@@ -432,7 +432,7 @@ ul {
     width: 50%;
     max-height: fit-content;
     min-height: 200px;
-    background: url(img/bg-dotmatrix.png) #e5141f repeat-x;
+    background: url(img/bg-dotmatrix.png) #c20710 repeat-x;
     background-position-y: bottom;
     padding: 20px 40px;
     display: flex;
