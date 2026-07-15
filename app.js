@@ -106,7 +106,10 @@ function myPrompt(outElement) { // Прибрали параметр promptText
         if (outElement && inpRate) {
             outElement.innerHTML += 
             `
-            <h1 class="left-heart">${inpRate.value}</h1>
+            <div class="pac-boss">
+               <img src="img/Undertale_red_soul.svg 1.png">
+               <h1 class="left-heart">${inpRate.value}</h1>
+            </div>
             ` 
         }
         rateDiv.remove(); 
